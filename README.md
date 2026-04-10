@@ -17,5 +17,7 @@ A professional, hardware-locked check-in system for modern retail. No extra subs
 <img width="1592" height="1394" alt="image" src="https://github.com/user-attachments/assets/c30b3586-7754-48c5-b85b-0b801534aeb3" />
 
 
+# 🖥️💿 [Purshase](https://payhip.com/b/b5kjL) 
+
 
 © 2026 ShiftPoint by FennecCyber. Built for the modern workspace.
